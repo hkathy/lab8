@@ -39,6 +39,10 @@ html, body, .container {
     float:left;
 }
 
+.facebookLogin p {
+    display: none;
+}
+
 .profile {
     margin-bottom: 20px;
 }
